@@ -1,0 +1,7 @@
+select
+from
+where
+as
+and
+or
+not
